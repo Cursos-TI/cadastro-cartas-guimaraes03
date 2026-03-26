@@ -22,6 +22,7 @@ int populacao2;
 float area2;
 float pib2;
 int pontosTuristicos2;
+//Carta 1
 
 printf("-- Especs da Carta 1 --\n");
 
@@ -46,6 +47,7 @@ scanf("%f", &pib1);
 printf("Numero de pontos turisticos: ");
 scanf("%d", &pontosTuristicos1);
 
+//Carta 2
 printf("-- Especs da Carta 2 --\n");
 
 printf("Estado (A-H): ");
